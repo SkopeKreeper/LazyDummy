@@ -22,11 +22,15 @@ If the name does NOT contain "craft", the quests will not be picked up automatic
 
 ## How I use?:
 Download the repo and put everything in your AddOns folder, and say "yes" when prompted to replace QuestHandler.lua
-**NOTE: This repository includes Armory Build Display in its entirety; however, it only contains one file from Dolgubon's Lazy Writ Creator**
+
+> [!NOTE]
+> This repository includes Armory Build Display in its entirety; however, it only contains one file from Dolgubon's Lazy Writ Creator**
 
 
 Once installed, make sure your crafting build contains "craft" in its description (it's a wildcard, don't need exact match), and switch back and forth between your two builds so that 
-**NOTE: If the game crashes or you use Alt+F4 to rage-quit, your build may be displayed incorrectly**
+
+> [!NOTE]
+> If the game crashes or you use Alt+F4 to rage-quit, your build may be displayed incorrectly**
 
 
 
